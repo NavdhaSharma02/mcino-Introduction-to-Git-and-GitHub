@@ -1,0 +1,2 @@
+navdhasharma@navdhas-MacBook-Air ~ % curl -s https://api.github.com/repos/NavdhaSharma02/mcino-Introduction-to-Git-and-GitHub | grep '"fork"'
+  "fork": true,
